@@ -1,6 +1,6 @@
 # 什么情况？！开玩结果把后桌攻略的五分钟
 
-[![Play Online](https://img.shields.io/badge/Play-Online-brightgreen)](https://quanquan1206.github.io/quanquan/)
+[![Play Online](https://img.shields.io/badge/🎮_Play_Online-Click_Here!-brightgreen)](https://quanquan1206.github.io/quanquan/)
 
 ## 🎮 游戏简介
 冲上向五分钟轻松解压小游戏
